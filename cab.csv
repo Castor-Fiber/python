@@ -1,0 +1,36 @@
+        Subject Place number            Row    Place type  ID
+0  Russian language           1     First row  Sigle-placed  01
+1         Chemistry           2     Second row  Single-placed  02
+2        Physics           3    Third row  Double-placed   03
+3      Biology           4  Fpurth row  Double-placed   04
+4   IT           5      Fifth row  Single-placed  05
+         Subject Place number            Row    Place type  ID
+0  Russian language           1     First row   Sigle-placed  01
+1         Chemistry           2     Second row   Sigle-placed  02
+2        Physics           3     Third row  Double-placed   03
+3      Biology           4  Fourth row  Double-placed   04
+4   IT           5      Fifth row   Sigle-placed  05
+            Subject Place namber     Row      Place type  ID
+0  Russian Language            1   First   Single-placed  01
+1         Chemistry            2  Second   Single-placed  02
+2           Physics            3   Third  Double-placed   03
+3           Biologi            4  Fourth  Double-placed   04
+4                IT            5   Fifth   Single-placed  05
+            Subject Place namber     Row      Place type  ID
+0  Russian Language            1   First   Single-placed  01
+1         Chemistry            2  Second   Single-placed  02
+2           Physics            3   Third  Double-placed   03
+3           Biologi            4  Fourth  Double-placed   04
+4                IT            5   Fifth   Single-placed  05
+            Subject Place number     Row      Place type  ID
+0  Russian Language            1   First   Single-placed  01
+1         Chemistry            2  Second   Single-placed  02
+2           Physics            3   Third  Double-placed   03
+3           Biologi            4  Fourth  Double-placed   04
+4                IT            5   Fifth   Single-placed  05
+            Subject Place number     Row      Place type  ID
+0  Russian Language            1   First   Single-placed  01
+1         Chemistry            2  Second   Single-placed  02
+2           Physics            3   Third  Double-placed   03
+3           Biologi            4  Fourth  Double-placed   04
+4                IT            5   Fifth   Single-placed  05
